@@ -106,4 +106,8 @@ p {
   p {
     text-align: center;
   }
+
+  h3 {
+    font-size: 16px;
+  }
 }
